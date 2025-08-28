@@ -1,0 +1,1004 @@
+{
+  "names": [
+    {
+      "id": 1,
+      "name": "Aadhya",
+      "tamil_name": "ஆத்யா",
+      "origin": "Sanskrit",
+      "meaning": "First power, The beginning",
+      "gender": "Girl",
+      "alternative_spellings": ["Adhya"],
+      "cultural_significance": "Another name for Goddess Durga."
+    },
+    {
+      "id": 2,
+      "name": "Aarav",
+      "tamil_name": "ஆரவ்",
+      "origin": "Sanskrit",
+      "meaning": "Peaceful, Calm",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A modern, popular name in India."
+    },
+    {
+      "id": 3,
+      "name": "Aarush",
+      "tamil_name": "ஆருஷ்",
+      "origin": "Sanskrit",
+      "meaning": "First ray of the sun",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Symbolizes warmth and light."
+    },
+    {
+      "id": 4,
+      "name": "Abhinav",
+      "tamil_name": "அபிநவ்",
+      "origin": "Sanskrit",
+      "meaning": "New, Fresh",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A classic name representing new beginnings."
+    },
+    {
+      "id": 5,
+      "name": "Advik",
+      "tamil_name": "அத்விக்",
+      "origin": "Sanskrit",
+      "meaning": "Unique",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name for Lord Shiva or Lord Ganesha."
+    },
+    {
+      "id": 6,
+      "name": "Akshara",
+      "tamil_name": "அக்ஷரா",
+      "origin": "Sanskrit",
+      "meaning": "Indestructible, Letter",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "Used in the context of the Holy letter or syllable."
+    },
+    {
+      "id": 7,
+      "name": "Ananya",
+      "tamil_name": "அனன்யா",
+      "origin": "Sanskrit",
+      "meaning": "Unique, Incomparable",
+      "gender": "Girl",
+      "alternative_spellings": ["Anania"],
+      "cultural_significance": "A name for Goddess Parvati."
+    },
+    {
+      "id": 8,
+      "name": "Arjun",
+      "tamil_name": "அர்ஜுன்",
+      "origin": "Sanskrit",
+      "meaning": "Bright, Shining",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A central character in the Mahabharata."
+    },
+    {
+      "id": 9,
+      "name": "Bhavya",
+      "tamil_name": "பவ்யா",
+      "origin": "Sanskrit",
+      "meaning": "Grand, Splendid",
+      "gender": "Unisex",
+      "alternative_spellings": [],
+      "cultural_significance": "Commonly used for both boys and girls."
+    },
+    {
+      "id": 10,
+      "name": "Dhruv",
+      "tamil_name": "துருவ்",
+      "origin": "Sanskrit",
+      "meaning": "Pole Star",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Represents constancy and reliability."
+    },
+    {
+      "id": 11,
+      "name": "Diya",
+      "tamil_name": "தியா",
+      "origin": "Hindi",
+      "meaning": "Lamp",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "Symbolizes light and positivity."
+    },
+    {
+      "id": 12,
+      "name": "Eesha",
+      "tamil_name": "ஈஷா",
+      "origin": "Sanskrit",
+      "meaning": "Purity, Goddess Parvati",
+      "gender": "Girl",
+      "alternative_spellings": ["Isha"],
+      "cultural_significance": "A divine name."
+    },
+    {
+      "id": 13,
+      "name": "Gaurav",
+      "tamil_name": "கௌரவ்",
+      "origin": "Sanskrit",
+      "meaning": "Pride, Honor",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A classic and respected name."
+    },
+    {
+      "id": 14,
+      "name": "Ishaan",
+      "tamil_name": "இஷான்",
+      "origin": "Sanskrit",
+      "meaning": "Lord Shiva",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Another name for the deity."
+    },
+    {
+      "id": 15,
+      "name": "Jiya",
+      "tamil_name": "ஜியா",
+      "origin": "Hindi",
+      "meaning": "Heart, Soul",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A name expressing endearment."
+    },
+    {
+      "id": 16,
+      "name": "Kavya",
+      "tamil_name": "காவ்யா",
+      "origin": "Sanskrit",
+      "meaning": "Poem, Poetry",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "Represents art and literature."
+    },
+    {
+      "id": 17,
+      "name": "Krish",
+      "tamil_name": "கிருஷ்",
+      "origin": "Sanskrit",
+      "meaning": "Short form of Krishna",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Refers to Lord Krishna."
+    },
+    {
+      "id": 18,
+      "name": "Lakshya",
+      "tamil_name": "லக்ஷ்யா",
+      "origin": "Sanskrit",
+      "meaning": "Target, Aim",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Symbolizes focus and determination."
+    },
+    {
+      "id": 19,
+      "name": "Myra",
+      "tamil_name": "மைரா",
+      "origin": "Latin/Greek",
+      "meaning": "Beloved, Admirable",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A popular, modern name."
+    },
+    {
+      "id": 20,
+      "name": "Nandini",
+      "tamil_name": "நந்தினி",
+      "origin": "Sanskrit",
+      "meaning": "Goddess Durga, a divine cow",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "Represents prosperity and happiness."
+    },
+    {
+      "id": 21,
+      "name": "Pranav",
+      "tamil_name": "ப்ரணவ்",
+      "origin": "Sanskrit",
+      "meaning": "The sacred syllable Om",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Highly spiritual and revered."
+    },
+    {
+      "id": 22,
+      "name": "Riya",
+      "tamil_name": "ரியா",
+      "origin": "Sanskrit",
+      "meaning": "Singer",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A popular short name."
+    },
+    {
+      "id": 23,
+      "name": "Rohan",
+      "tamil_name": "ரோஹன்",
+      "origin": "Sanskrit",
+      "meaning": "Ascending, Growing",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Symbolizes progress and growth."
+    },
+    {
+      "id": 24,
+      "name": "Saisha",
+      "tamil_name": "சாய்ஷா",
+      "origin": "Sanskrit",
+      "meaning": "Goddess of Truth",
+      "gender": "Girl",
+      "alternative_spellings": ["Saiyasha"],
+      "cultural_significance": "A modern, popular name."
+    },
+    {
+      "id": 25,
+      "name": "Shreya",
+      "tamil_name": "ஸ்ரேயா",
+      "origin": "Sanskrit",
+      "meaning": "Auspicious, Lucky",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A very common and positive name."
+    },
+    {
+      "id": 26,
+      "name": "Tanisha",
+      "tamil_name": "தனிஷா",
+      "origin": "Sanskrit",
+      "meaning": "Ambition, Desire",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A popular modern name."
+    },
+    {
+      "id": 27,
+      "name": "Vedant",
+      "tamil_name": "வேதாந்த்",
+      "origin": "Sanskrit",
+      "meaning": "Vedas, knowledge",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Refers to ancient scriptures."
+    },
+    {
+      "id": 28,
+      "name": "Yash",
+      "tamil_name": "யாஷ்",
+      "origin": "Sanskrit",
+      "meaning": "Fame, Glory",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A common name with a positive meaning."
+    },
+    {
+      "id": 29,
+      "name": "Zoya",
+      "tamil_name": "ஜோயா",
+      "origin": "Persian/Russian",
+      "meaning": "Life",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A name with an international feel, popular in India."
+    },
+    {
+      "id": 30,
+      "name": "Dev",
+      "tamil_name": "தேவ்",
+      "origin": "Sanskrit",
+      "meaning": "God, Divine",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A simple and powerful name."
+    },
+    {
+      "id": 31,
+      "name": "Ananya",
+      "tamil_name": "அனன்யா",
+      "origin": "Sanskrit",
+      "meaning": "Unique, Incomparable",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A popular name for girls."
+    },
+    {
+      "id": 32,
+      "name": "Gita",
+      "tamil_name": "கீதா",
+      "origin": "Sanskrit",
+      "meaning": "Song",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "Refers to the Bhagavad Gita."
+    },
+    {
+      "id": 33,
+      "name": "Rishi",
+      "tamil_name": "ரிஷி",
+      "origin": "Sanskrit",
+      "meaning": "Sage, Wise person",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name of reverence."
+    },
+    {
+      "id": 34,
+      "name": "Saanvi",
+      "tamil_name": "சான்வி",
+      "origin": "Sanskrit",
+      "meaning": "Goddess Lakshmi",
+      "gender": "Girl",
+      "alternative_spellings": ["Sanvi"],
+      "cultural_significance": "A very popular and auspicious name."
+    },
+    {
+      "id": 35,
+      "name": "Shantanu",
+      "tamil_name": "சாந்தனு",
+      "origin": "Sanskrit",
+      "meaning": "Healthy, Whole",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A character in the Mahabharata."
+    },
+    {
+      "id": 36,
+      "name": "Vaani",
+      "tamil_name": "வாணி",
+      "origin": "Sanskrit",
+      "meaning": "Speech, Goddess Saraswati",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "Represents the goddess of knowledge and arts."
+    },
+    {
+      "id": 37,
+      "name": "Vihan",
+      "tamil_name": "விஹான்",
+      "origin": "Sanskrit",
+      "meaning": "Morning, Dawn",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Symbolizes new beginnings."
+    },
+    {
+      "id": 38,
+      "name": "Aarohi",
+      "tamil_name": "ஆரோஹி",
+      "origin": "Sanskrit",
+      "meaning": "Musical note, Ascending",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A popular name, often used for girls."
+    },
+    {
+      "id": 39,
+      "name": "Arnav",
+      "tamil_name": "அர்ணவ்",
+      "origin": "Sanskrit",
+      "meaning": "Ocean, Sea",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Symbolizes depth and vastness."
+    },
+    {
+      "id": 40,
+      "name": "Bhoomika",
+      "tamil_name": "பூமிகா",
+      "origin": "Sanskrit",
+      "meaning": "Earth",
+      "gender": "Girl",
+      "alternative_spellings": ["Bhumika"],
+      "cultural_significance": "A name for Mother Earth."
+    },
+    {
+      "id": 41,
+      "name": "Chirag",
+      "tamil_name": "சிராக்",
+      "origin": "Persian/Hindi",
+      "meaning": "Lamp",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Brings light into life."
+    },
+    {
+      "id": 42,
+      "name": "Devika",
+      "tamil_name": "தேவிகா",
+      "origin": "Sanskrit",
+      "meaning": "Little goddess",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A diminutive and endearing name."
+    },
+    {
+      "id": 43,
+      "name": "Eklavya",
+      "tamil_name": "ஏகலவ்யா",
+      "origin": "Sanskrit",
+      "meaning": "Student of Dronacharya",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A legendary archer in the Mahabharata."
+    },
+    {
+      "id": 44,
+      "name": "Gautam",
+      "tamil_name": "கௌதம்",
+      "origin": "Sanskrit",
+      "meaning": "Lord Buddha",
+      "gender": "Boy",
+      "alternative_spellings": ["Gautham"],
+      "cultural_significance": "A name of a great spiritual leader."
+    },
+    {
+      "id": 45,
+      "name": "Ishan",
+      "tamil_name": "ஈஷான்",
+      "origin": "Sanskrit",
+      "meaning": "Lord Shiva",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Another name for the deity."
+    },
+    {
+      "id": 46,
+      "name": "Jivin",
+      "tamil_name": "ஜிவின்",
+      "origin": "Sanskrit",
+      "meaning": "To give life",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name related to vitality."
+    },
+    {
+      "id": 47,
+      "name": "Kairav",
+      "tamil_name": "கைரவ்",
+      "origin": "Sanskrit",
+      "meaning": "White lotus",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Represents purity and beauty."
+    },
+    {
+      "id": 48,
+      "name": "Lalita",
+      "tamil_name": "லலிதா",
+      "origin": "Sanskrit",
+      "meaning": "Charming, Elegant",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "One of the Gopis of Radha."
+    },
+    {
+      "id": 49,
+      "name": "Manas",
+      "tamil_name": "மனஸ்",
+      "origin": "Sanskrit",
+      "meaning": "Mind, Intellect",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Relates to intelligence and wisdom."
+    },
+    {
+      "id": 50,
+      "name": "Naisha",
+      "tamil_name": "நைஷா",
+      "origin": "Sanskrit",
+      "meaning": "Special, Unique",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A modern and stylish name."
+    },
+    {
+      "id": 51,
+      "name": "Naman",
+      "tamil_name": "நமன்",
+      "origin": "Sanskrit",
+      "meaning": "Salutation, Bow",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Represents respect and humility."
+    },
+    {
+      "id": 52,
+      "name": "Ojas",
+      "tamil_name": "ஓஜாஸ்",
+      "origin": "Sanskrit",
+      "meaning": "Strength, Vigor",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name that signifies energy."
+    },
+    {
+      "id": 53,
+      "name": "Palak",
+      "tamil_name": "பலக்",
+      "origin": "Sanskrit",
+      "meaning": "Eyelid",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A soft and gentle name."
+    },
+    {
+      "id": 54,
+      "name": "Prisha",
+      "tamil_name": "பிரிஷா",
+      "origin": "Sanskrit",
+      "meaning": "Beloved, God's gift",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A modern, popular name."
+    },
+    {
+      "id": 55,
+      "name": "Reyansh",
+      "tamil_name": "ரேயான்ஷ்",
+      "origin": "Sanskrit",
+      "meaning": "First ray of the sun",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name for Lord Vishnu."
+    },
+    {
+      "id": 56,
+      "name": "Rivaan",
+      "tamil_name": "ரிவான்",
+      "origin": "Sanskrit",
+      "meaning": "Ambitious, Horse rider",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A modern and popular name."
+    },
+    {
+      "id": 57,
+      "name": "Ruchika",
+      "tamil_name": "ருச்சிகா",
+      "origin": "Sanskrit",
+      "meaning": "Shining, Desirous",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "Symbolizes light and attractiveness."
+    },
+    {
+      "id": 58,
+      "name": "Samar",
+      "tamil_name": "சமர்",
+      "origin": "Arabic/Hindi",
+      "meaning": "Evening conversation, War",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name used in multiple cultures."
+    },
+    {
+      "id": 59,
+      "name": "Shlok",
+      "tamil_name": "ஸ்லோக்",
+      "origin": "Sanskrit",
+      "meaning": "Hymn, Verse",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Refers to sacred verses."
+    },
+    {
+      "id": 60,
+      "name": "Tanmay",
+      "tamil_name": "தன்மய்",
+      "origin": "Sanskrit",
+      "meaning": "Engrossed, Absorbed",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name that signifies deep thought."
+    },
+    {
+      "id": 61,
+      "name": "Tara",
+      "tamil_name": "தாரா",
+      "origin": "Sanskrit",
+      "meaning": "Star",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A beautiful, classic name."
+    },
+    {
+      "id": 62,
+      "name": "Tejas",
+      "tamil_name": "தேஜஸ்",
+      "origin": "Sanskrit",
+      "meaning": "Brilliance, Luster",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name that signifies energy and brightness."
+    },
+    {
+      "id": 63,
+      "name": "Uday",
+      "tamil_name": "உதய்",
+      "origin": "Sanskrit",
+      "meaning": "Sunrise",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Symbolizes new beginnings."
+    },
+    {
+      "id": 64,
+      "name": "Veer",
+      "tamil_name": "வீர்",
+      "origin": "Sanskrit",
+      "meaning": "Brave",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name that signifies courage."
+    },
+    {
+      "id": 65,
+      "name": "Yashvi",
+      "tamil_name": "யஷ்வி",
+      "origin": "Sanskrit",
+      "meaning": "Fame",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A popular modern name."
+    },
+    {
+      "id": 66,
+      "name": "Zarah",
+      "tamil_name": "சாரா",
+      "origin": "Arabic/Persian",
+      "meaning": "Princess, Flower",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A name with an international feel."
+    },
+    {
+      "id": 67,
+      "name": "Amara",
+      "tamil_name": "அமரா",
+      "origin": "Sanskrit/Arabic",
+      "meaning": "Immortal, Grace",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "Used in different cultures with varied meanings."
+    },
+    {
+      "id": 68,
+      "name": "Aniket",
+      "tamil_name": "அனிகேத்",
+      "origin": "Sanskrit",
+      "meaning": "Lord Krishna, Homeless",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name for a deity."
+    },
+    {
+      "id": 69,
+      "name": "Avani",
+      "tamil_name": "அவனி",
+      "origin": "Sanskrit",
+      "meaning": "Earth",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A name for Mother Earth."
+    },
+    {
+      "id": 70,
+      "name": "Deepak",
+      "tamil_name": "தீபக்",
+      "origin": "Sanskrit",
+      "meaning": "Lamp",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Represents light and hope."
+    },
+    {
+      "id": 71,
+      "name": "Esha",
+      "tamil_name": "ஈஷா",
+      "origin": "Sanskrit",
+      "meaning": "Purity, Desire",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A name with a beautiful meaning."
+    },
+    {
+      "id": 72,
+      "name": "Gaurika",
+      "tamil_name": "கௌரிகா",
+      "origin": "Sanskrit",
+      "meaning": "Young girl, Parvati",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "Another name for Goddess Parvati."
+    },
+    {
+      "id": 73,
+      "name": "Hitesh",
+      "tamil_name": "ஹித்தேஷ்",
+      "origin": "Sanskrit",
+      "meaning": "Lord of goodness",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A classic and positive name."
+    },
+    {
+      "id": 74,
+      "name": "Jivin",
+      "tamil_name": "ஜிவின்",
+      "origin": "Sanskrit",
+      "meaning": "To give life",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name that signifies vitality."
+    },
+    {
+      "id": 75,
+      "name": "Karan",
+      "tamil_name": "கரன்",
+      "origin": "Sanskrit",
+      "meaning": "Ear, Companion",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A character in the Mahabharata."
+    },
+    {
+      "id": 76,
+      "name": "Kavish",
+      "tamil_name": "கவிஷ்",
+      "origin": "Sanskrit",
+      "meaning": "Lord of poets",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name for Lord Ganesha."
+    },
+    {
+      "id": 77,
+      "name": "Kriti",
+      "tamil_name": "க்ரிதி",
+      "origin": "Sanskrit",
+      "meaning": "Creation, Artwork",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "Represents creativity."
+    },
+    {
+      "id": 78,
+      "name": "Lakshmi",
+      "tamil_name": "லக்ஷ்மி",
+      "origin": "Sanskrit",
+      "meaning": "Goddess of wealth and fortune",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A highly revered goddess."
+    },
+    {
+      "id": 79,
+      "name": "Manan",
+      "tamil_name": "மனன்",
+      "origin": "Sanskrit",
+      "meaning": "Meditation",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name that signifies contemplation."
+    },
+    {
+      "id": 80,
+      "name": "Navya",
+      "tamil_name": "நவ்யா",
+      "origin": "Sanskrit",
+      "meaning": "New, Fresh",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A modern and popular name."
+    },
+    {
+      "id": 81,
+      "name": "Nikhil",
+      "tamil_name": "நிஹில்",
+      "origin": "Sanskrit",
+      "meaning": "Whole, Complete",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A classic and common name."
+    },
+    {
+      "id": 82,
+      "name": "Pooja",
+      "tamil_name": "பூஜா",
+      "origin": "Sanskrit",
+      "meaning": "Worship",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A name related to religious rituals."
+    },
+    {
+      "id": 83,
+      "name": "Pranav",
+      "tamil_name": "பிரணவ்",
+      "origin": "Sanskrit",
+      "meaning": "The sacred syllable Om",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Highly spiritual and revered."
+    },
+    {
+      "id": 84,
+      "name": "Priya",
+      "tamil_name": "ப்ரியா",
+      "origin": "Sanskrit",
+      "meaning": "Beloved",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A very common and popular name."
+    },
+    {
+      "id": 85,
+      "name": "Rahul",
+      "tamil_name": "ராகுல்",
+      "origin": "Sanskrit",
+      "meaning": "Son of Lord Buddha",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name of a great spiritual leader."
+    },
+    {
+      "id": 86,
+      "name": "Reema",
+      "tamil_name": "ரீமா",
+      "origin": "Sanskrit",
+      "meaning": "White deer, Goddess of Purity",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A name with a gentle meaning."
+    },
+    {
+      "id": 87,
+      "name": "Rohit",
+      "tamil_name": "ரோஹித்",
+      "origin": "Sanskrit",
+      "meaning": "Red, Sun",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Represents the color of the rising sun."
+    },
+    {
+      "id": 88,
+      "name": "Siddharth",
+      "tamil_name": "சித்தார்த்",
+      "origin": "Sanskrit",
+      "meaning": "One who has accomplished a goal",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "The given name of Lord Buddha."
+    },
+    {
+      "id": 89,
+      "name": "Siya",
+      "tamil_name": "சியா",
+      "origin": "Sanskrit",
+      "meaning": "Goddess Sita",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A name of a central figure in the Ramayana."
+    },
+    {
+      "id": 90,
+      "name": "Sneha",
+      "tamil_name": "ஸ்நேஹா",
+      "origin": "Sanskrit",
+      "meaning": "Affection, Love",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A name that signifies love."
+    },
+    {
+      "id": 91,
+      "name": "Suhani",
+      "tamil_name": "சுஹானி",
+      "origin": "Sanskrit",
+      "meaning": "Pleasant, Charming",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A name with a beautiful meaning."
+    },
+    {
+      "id": 92,
+      "name": "Suraj",
+      "tamil_name": "சூரஜ்",
+      "origin": "Sanskrit",
+      "meaning": "Sun",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name that signifies light and energy."
+    },
+    {
+      "id": 93,
+      "name": "Tanvi",
+      "tamil_name": "தன்வி",
+      "origin": "Sanskrit",
+      "meaning": "Beautiful, Delicate",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A name that signifies beauty."
+    },
+    {
+      "id": 94,
+      "name": "Vanya",
+      "tamil_name": "வன்யா",
+      "origin": "Sanskrit",
+      "meaning": "Forest",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A name that signifies nature."
+    },
+    {
+      "id": 95,
+      "name": "Vivek",
+      "tamil_name": "விவேக்",
+      "origin": "Sanskrit",
+      "meaning": "Wisdom, Knowledge",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name that signifies intellect."
+    },
+    {
+      "id": 96,
+      "name": "Yug",
+      "tamil_name": "யுக்",
+      "origin": "Sanskrit",
+      "meaning": "Era, Age",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name that signifies a period of time."
+    },
+    {
+      "id": 97,
+      "name": "Avni",
+      "tamil_name": "அவ்னி",
+      "origin": "Sanskrit",
+      "meaning": "Earth",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "Another name for Mother Earth."
+    },
+    {
+      "id": 98,
+      "name": "Ahaan",
+      "tamil_name": "அஹான்",
+      "origin": "Sanskrit",
+      "meaning": "First ray of light",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "A name that signifies new beginnings."
+    },
+    {
+      "id": 99,
+      "name": "Riya",
+      "tamil_name": "ரியா",
+      "origin": "Sanskrit",
+      "meaning": "Singer",
+      "gender": "Girl",
+      "alternative_spellings": [],
+      "cultural_significance": "A popular short name."
+    },
+    {
+      "id": 100,
+      "name": "Vihaan",
+      "tamil_name": "விஹான்",
+      "origin": "Sanskrit",
+      "meaning": "Morning, Dawn",
+      "gender": "Boy",
+      "alternative_spellings": [],
+      "cultural_significance": "Symbolizes new beginnings."
+    }
+  ]
+}
